@@ -36,7 +36,7 @@ I am a Mobile And Web Developer having experience with various technologies
         Language
     </th>
     <td align="center" width="20%" style="opacity:0.4">
-        <span><b><center>Typescript</center></b></span> 
+        <span><b><center>Typescript (Ongoing)</center></b></span> 
         <img height=60px src="https://img.icons8.com/color/344/typescript.png"> 
     </td>
     <td align="center" width="20%">
@@ -66,7 +66,7 @@ I am a Mobile And Web Developer having experience with various technologies
         Frontend
     </th>
     <td align="center" width="20%"  style="opacity:0.5">
-        <span><b><center>Vue</center></b></span> 
+        <span><b><center>Vue (Ongoing)</center></b></span> 
         <img height=60px src="https://img.icons8.com/color/344/vue-js.png"> 
     </td>
     <td align="center" width="20%">
@@ -81,7 +81,7 @@ I am a Mobile And Web Developer having experience with various technologies
 
 
 <td align="center" width="20%" style="opacity:0.5">
-<span><b><center>GraphQL</center></b></span> 
+<span><b><center>GraphQL (Ongoing)</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/344/graphql.png"> 
 </td>
 <td align="center" width="20%">
@@ -104,7 +104,7 @@ I am a Mobile And Web Developer having experience with various technologies
  Database
 </th>
 <td align="center" width="20%" style="opacity:0.5">
-<span><b><center>MongoDB</center></b></span> 
+<span><b><center>MongoDB (Ongoing)</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/344/mongodb.png"> 
 </td>
 <td align="center" width="20%">
@@ -120,7 +120,7 @@ I am a Mobile And Web Developer having experience with various technologies
  Tools
 </th>
 <td align="center" width="20%"  style="opacity:0.5">
-<span><b><center>Docker</center></b></span> 
+<span><b><center>Docker (Ongoing)</center></b></span> 
 <img height=65px src="https://img.icons8.com/dusk/344/docker.png"> 
 </td>
 <td align="center" width="20%">
