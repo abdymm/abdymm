@@ -63,7 +63,7 @@ I am a Mobile And Web Developer having experience with various technologies
         Frontend
     </th>
     <td align="center" width="20%"  style="opacity:0.5">
-        <span><b><center>Vue (Ongoing)</center></b></span> 
+        <span><b><center>Vue</center></b></span> 
         <img height=60px src="https://img.icons8.com/color/344/vue-js.png"> 
     </td>
     <td align="center" width="20%">
@@ -78,7 +78,7 @@ I am a Mobile And Web Developer having experience with various technologies
 
 
 <td align="center" width="20%" style="opacity:0.5">
-<span><b><center>GraphQL (Ongoing)</center></b></span> 
+<span><b><center>GraphQL</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/344/graphql.png"> 
 </td>
 <td align="center" width="20%">
@@ -101,7 +101,7 @@ I am a Mobile And Web Developer having experience with various technologies
  Database
 </th>
 <td align="center" width="20%" style="opacity:0.5">
-<span><b><center>MongoDB (Ongoing)</center></b></span> 
+<span><b><center>MongoDB</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/344/mongodb.png"> 
 </td>
 <td align="center" width="20%">
