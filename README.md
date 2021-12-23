@@ -4,18 +4,13 @@ I am a Mobile And Web Developer having experience with various technologies
 
 #### Current Tech Stack
 
-- Language: Javascript, PHP
+- Language: Javascript, Typescript, PHP
 - Frontend: React, NuxtJS (Vue)
 - Mobile: Android(Kotlin), React Native, Apollo Client
 - DB: MySQL, Oracle, Postgres, Firebase
 - API: Rest API, GraphQL
 - Backend: Node, Express, Laravel
 - UI/UX: XD
-
-#### Next Tech Stack to
-
-- [ ] Language: Typescript
-- [ ] TDD
 
 ## ![Abdy Malik Mulky's Stats](https://github-readme-stats.vercel.app/api?username=abdymm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
