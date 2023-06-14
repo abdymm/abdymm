@@ -12,8 +12,8 @@ I am a Mobile And Web Developer having experience with various technologies
 - Backend: Node, Express, Laravel
 - UI/UX: XD
 
-## ![Abdy Malik Mulky's Stats](https://github-readme-stats.vercel.app/api?username=abdymm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+<!-- ## ![Abdy Malik Mulky's Stats](https://github-readme-stats.vercel.app/api?username=abdymm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+ -->
 ## ![Abdy Malik Mulky's Follower](https://img.shields.io/github/followers/abdymm?style=social)
 
 <br>
