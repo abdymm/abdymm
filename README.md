@@ -6,11 +6,11 @@ I am a Mobile And Web Developer having experience with various technologies
 
 - Language: Javascript, Typescript, PHP
 - Frontend: React, NuxtJS (Vue)
-- Mobile: Android(Kotlin), React Native, Apollo Client
+- Mobile: Android(Kotlin), React Native, Flutter
 - DB: MySQL, Oracle, Postgres, Firebase
 - API: Rest API, GraphQL
 - Backend: Node, Express, Laravel
-- UI/UX: XD
+- UI/UX: XD, Figma
 
 <!-- ## ![Abdy Malik Mulky's Stats](https://github-readme-stats.vercel.app/api?username=abdymm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
  -->
